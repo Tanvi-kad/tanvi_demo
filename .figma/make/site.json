@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines employee performance management with role-based dashboards for employees, managers, HR, and admins to track goals, reviews, and progress.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
